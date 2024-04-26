@@ -3,3 +3,4 @@ CREATE TABLE IF NOT EXISTS predictions (
     date TIMESTAMP,
     prediction FLOAT
 );
+
